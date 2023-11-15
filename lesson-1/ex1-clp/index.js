@@ -14,4 +14,4 @@ rl.question('Як вас звати?', answer => {
 
 //rl.pause();
 
-rl.close();
+// rl.close();
