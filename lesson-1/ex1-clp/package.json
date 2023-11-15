@@ -1,5 +1,5 @@
 {
-  "name": "node.js-mod01-3",
+  "name": "ex1-clp",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,9 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
-    "commander": "^11.1.0",
-    "cors": "^2.8.5",
-    "express": "^4.18.2"
+    "commander": "^11.1.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
